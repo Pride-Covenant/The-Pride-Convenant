@@ -1,7 +1,5 @@
-# prideconvenant
-An Add-on for GPLv3,  that recognises, understands and protects LGBTQ+ People's contributions to software
 
-## 🏳️‍🌈 Pride Flag Covenant
+# 🏳️‍🌈 Pride Flag Covenant
 
 This software and associated documentation files (the "Software") include the Pride Flag (🏳️‍🌈) as a core component of its identity and brand. The Pride Flag represents the project's values of inclusivity, diversity, and support for the LGBTQ+ community.
 
